@@ -1,0 +1,16 @@
+.pdetails-div {
+    text-align: left;
+    display: flex;
+    width: 1200px;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.pd-footer-img {
+    width: 190px;
+    justify-content: space-evenly;
+    margin-left: 1300px;
+    margin-top: 25px;
+}

@@ -1,0 +1,166 @@
+.header-one {
+    display: flex;
+    width: 150px;
+    justify-content: space-evenly;
+}
+
+.drop-down {
+
+    border: 0px solid transparent;
+
+}
+
+.cart-img {
+    width: 24px;
+    height: 24px;
+}
+
+.header-two-one {
+    display: flex;
+    width: 250px;
+    justify-content: space-evenly;
+}
+
+.header-two-two {
+    text-decoration: none;
+    color: #080707;
+}
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    height: 50px;
+    margin-top: 0px;
+    box-sizing: border-box;
+    padding-top: 15px;
+}
+
+.header:hover {
+    box-shadow: 0px 2px 10px black;
+}
+
+.header-search-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.header-title {
+    margin-top: 62px;
+    margin-left: 650px;
+    width: 122px;
+    height: 32px;
+    font-size: 35px;
+    color: #FF4252;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.header-menu {
+    display: flex;
+    width: 700px;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    margin-left: 400px;
+
+}
+
+.header-pages-link {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    color: #080707;
+
+}
+
+.header-pages-link:hover {
+    color: #2E90E5;
+
+
+}
+
+.store-menu {
+    position: absolute;
+    margin-top: 25px;
+    background-color: rgb(254, 254, 255);
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px black;
+    z-index: 5;
+}
+
+.store-table {
+    width: 750px;
+    line-height: 30px;
+    box-sizing: border-box;
+    padding-left: 15px;
+
+}
+
+
+/* profile css styles */
+
+.profile-form-con {
+    position: absolute;
+    text-align: center;
+    width: 500px;
+    background-color: rgb(192, 189, 189);
+    box-sizing: border-box;
+    border-radius: 15px;
+    margin-left: -400px;
+    margin-top: 150px;
+    z-index: 6;
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(5px);
+    box-shadow: 0px 0px 5px black;
+}
+
+input {
+    height: 25px;
+    width: 250px;
+    text-align: center;
+    border-radius: 25px;
+
+}
+
+.lables {
+
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.profile-click {
+    width: 250px;
+    background-color: rgb(236, 228, 228);
+    font-size: 20px;
+    box-shadow: 0px 0px 5px black;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    box-sizing: border-box;
+    /* padding-top: 2.5px; */
+    /* margin-left: 125px; */
+}
+
+.social-login-f {
+    width: 250px;
+    background-color: #2E90E5;
+    height: 50px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding-top: 2.5px;
+    margin-left: 125px;
+
+}
+
+.social-login-g {
+    width: 250px;
+    background-color: #9a1010;
+    height: 50px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding-top: 2.5px;
+    margin-left: 125px;
+}

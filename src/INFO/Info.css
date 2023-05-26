@@ -1,0 +1,17 @@
+.info-ishop {
+    color: red;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 35px;
+
+}
+
+.info-container {
+    display: flex;
+    width: 1200px;
+
+    justify-content: space-evenly;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
